@@ -1,3 +1,6 @@
+Installing Dependencies:
+Ubuntu 18.04
+
 COLMAP
 ======
 
